@@ -1,0 +1,10 @@
+mean1 = 38
+wrong_number = 36
+correct_number = 56
+total_number = 40
+sum = mean1 * total_number
+# sum = 1520 (the original, wrong total)
+num2 = sum - ((wrong_number) - (correct_number))
+# num2 = 1540 (the corrected total)
+mean2 = num2 / total_number
+# mean2 = 38.5 (the corrected mean)

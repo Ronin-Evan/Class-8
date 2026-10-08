@@ -1,0 +1,7 @@
+v = 4
+w = 5
+x = 8
+y = 2
+(v + w) * x / y     # an expression - just a value
+z = (v + w) * x / y # a statement - stores that value
+print(z)             # also a statement - prints it
